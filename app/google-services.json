@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852210418664",
+    "firebase_url": "https://ardomino-5dea7.firebaseio.com",
+    "project_id": "ardomino-5dea7",
+    "storage_bucket": "ardomino-5dea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852210418664:android:c759b0cc45aa0d61f11a5d",
+        "android_client_info": {
+          "package_name": "com.example.ardomino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852210418664-sn3ujuei2jbljnrji82n0s35n5b3cros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bPEJNdIES0ZfUyPpkECKOXHUhIiQ9fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852210418664-sn3ujuei2jbljnrji82n0s35n5b3cros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
