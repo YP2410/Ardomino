@@ -15,8 +15,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseESP8266.h>
 SoftwareSerial NodeMCU(TX,RX);
-#define WIFI_SSID "AndroidAP2B31"
-#define WIFI_PASSWORD "gdqr3060"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define FIREBASE_HOST "ardomino-5dea7.firebaseio.com"
 
